@@ -25,8 +25,8 @@ Az Egyedi szerződésnek kötelezően kell tartalmaznia az egyes feladatok r
 
 Szerződő Felek megállapodnak abban, hogy a jelen együttműködés során intézkedésre jogosult képviselőik a következők:
 
-**Megrendelő részéről:** A Megrendelésben megadott kapcsolattartó
-**Vállalkozó részéről:** Ambrus Péter (Telefon: +36 70 209 3432 / Email: ugyfelszolgalat@premiumwp.hu, ugyfelszolgalat@surbma.hu)
+- **Megrendelő részéről:** A Megrendelésben megadott kapcsolattartó
+- **Vállalkozó részéről:** Ambrus Péter (Telefon: +36 70 209 3432 / Email: ugyfelszolgalat@premiumwp.hu, ugyfelszolgalat@surbma.hu)
 
 Felek kijelentik, hogy jelen pontban megjelölt képviselőik jogosultak a jelen szerződés megkötésére, illetve a jelen szerződés teljesítéséhez szükséges jognyilatkozatok megtételére.
 
@@ -42,9 +42,9 @@ Az Egyedi szerződésekben nem szabályozott vagy a feladatokon túlmutató
 
 ### A szerződés megkötésekor érvényes óradíjak:
 
-**Programozás, adminisztrációs feladatok:** 8.000 Ft
-**Tartalomfeltöltés:** 8.000 Ft
-**Oktatás, konzultáció:** 8.000 Ft
+- **Programozás, adminisztrációs feladatok:** 8.000 Ft
+- **Tartalomfeltöltés:** 8.000 Ft
+- **Oktatás, konzultáció:** 8.000 Ft
 
 Az árak alanyi adómentesek, ezért áfa mentesen kerülnek leszámlázásra.
 
@@ -62,8 +62,8 @@ Vállalkozó a fejlesztés ideje alatt biztosítja Megrendelő részére 
 
 ## Fizetési feltételek
 
-**Fizetési határidő:** 8 nap
-**Fizetés módja:** banki átutalás
+- **Fizetési határidő:** 8 nap
+- **Fizetés módja:** banki átutalás
 
 Vállalkozó a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Megrendelő a megrendelés leadásával beleegyezését adja Vállalkozónak, hogy részére elektronikus számlát állítson ki.
 
