@@ -1,6 +1,6 @@
 # Szerződések
 
-Itt találhatóak a mindenkor aktuális szerződések és azok előző verziói. Így az egyes változtatások nyomonkövetése is egyszerűbb.
+Itt találhatóak a mindenkor aktuális szerződések és azok előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
 
 ## Változtatások:
 
