@@ -9,7 +9,16 @@ A verziószám két részből áll:
 1. Az első szám határozza meg a főverziót. Minden olyan módosítás, ami a meglévő feltételeket, adatokat, meghatározásokat módosítja, egy új főverziót kap.
 2. A második szám határozza meg az adott főverzió javításait. Minden stilisztikai, elrendezésbeli, helyesírás és egyéb javítás ide tartozik, ami nem módosít a szerződés jelentésén, értelmezésén és a feltételek meghatározásán, érvényességén. Új főverzió esetén ez a szám nullázódik, tehát mindig az adott főverzióra vonatkozik.
 
+## Utolsó frissítés
+
+Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítására vonatkozik, tehát a stilisztikai, megjelenésbeli és egyéb kis hibajavítások esetén nem frissül. A dátum azt az állapotot mutatja, amikor a szerződés lényegi elemei utoljára módosultak, azaz a főverzió frissülésével megegyező dátumot
+
 ## Változtatások:
+
+**2.2**
+
+- Verzió megjelenítése a szerződésben.
+- Utolsó frissítés értelmezés leírása a README.md fájlban.
 
 **2.1**
 
