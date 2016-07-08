@@ -1,6 +1,6 @@
-# Szerződések
+# Vállalkozási Keretszerződés dokumentáció
 
-Itt találhatóak a mindenkor aktuális szerződések és azok előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
+Itt található a mindenkor aktuális Vállalkozási Keretszerződés és annak előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
 
 ## Verziószám
 
@@ -10,6 +10,10 @@ A verziószám két részből áll:
 2. A második szám határozza meg az adott főverzió javításait. Minden stilisztikai, elrendezésbeli, helyesírás és egyéb javítás ide tartozik, ami nem módosít a szerződés jelentésén, értelmezésén és a feltételek meghatározásán, érvényességén. Új főverzió esetén ez a szám nullázódik, tehát mindig az adott főverzióra vonatkozik.
 
 ## Változtatások:
+
+**2.1**
+
+- README.md címsorának és leírásának a módosítása.
 
 **2.0**
 
