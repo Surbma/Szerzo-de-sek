@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**UTOLSÓ FRISSÍTÉS: 2016.05.20.**
+**UTOLSÓ FRISSÍTÉS: 2016.06.24.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -19,13 +19,15 @@ Megrendelő és Vállalkozó a jelen szerződés hatályba lépéséto
 
 Minden elektronikus formában megállapodott megbízás Egyedi szerződésnek minősül, amelyben Megrendelő egy adott munkafolyamatra árajánlatot kér Vállalkozótól és az árajánlatot elektronikus formában visszaigazolja, elfogadja.
 
+Felek megállapodnak, hogy olyan munkafolyamat esetében, amely különleges szakértelmet, specifikációt igényel, a Felek egyeztetnek és a Vállalkozó a Megrendelő által előadottak alapján az árajánlatával egyidejűleg küldi meg a specifikációt a Megrendelő részére.
+
 Az Egyedi szerződésnek kötelezően kell tartalmaznia az egyes feladatok részletes leírását, árazását és a vállalt határidőket.
 
 ## Kapcsolati információk
 
 Szerződő Felek megállapodnak abban, hogy a jelen együttműködés során intézkedésre jogosult képviselőik a következők:
 
-- **Megrendelő részéről:** A Megrendelésben megadott kapcsolattartó
+- **Megrendelő részéről:** A Prémium WordPress honlapszolgáltatás megrendelésekor megadott kapcsolattartó, valamint a Megrendelő cégjegyzékben meghatározott vezető tisztségviselője
 - **Vállalkozó részéről:** Ambrus Péter (Telefon: +36 70 209 3432 / Email: ugyfelszolgalat@premiumwp.hu, ugyfelszolgalat@surbma.hu)
 
 Felek kijelentik, hogy jelen pontban megjelölt képviselőik jogosultak a jelen szerződés megkötésére, illetve a jelen szerződés teljesítéséhez szükséges jognyilatkozatok megtételére.
@@ -52,9 +54,9 @@ Vállalkozó a jelen szerződés hatályba lépését és a végleges 
 
 Vállalkozó a folyamatban lévő munkákról a fejlesztési időszak alatt folyamatosan elektronikus formában (adott esetben levelezési listán) írásban tájékoztatja Megrendelőt. Megrendelő az ezzel kapcsolatos észrevételeit, kijavítási igényeit a fejlesztési idő alatt köteles öt munkanapon belül elektronikus formában közölni Vállalkozóval. Az esetleges észrevételeket Vállalkozó lehetőségeinek és a jelen szerződés alapjául szolgáló, előzetesen egyeztetett alapkoncepciónak megfelelően köteles figyelembe venni. Amennyiben a válasz öt munkanapon belül nem érkezik meg, úgy a vállalkozási határidő a késedelmes napok számával meghosszabbodik. Vállalkozó a Megrendelő részéről kizárólag a szerződésben megjelölt személytől, vagy az ott megjelölt személy igazolásával fogad el teljesítésre vonatkozó instrukciókat. Amennyiben Megrendelő 30 munkanapot késik a válaszával, Vállalkozó jogosult az addig elkészült munkák kiszámlázására.
 
-Megrendelő kötbérigénnyel élhet a Vállalkozó késedelmes teljesítése esetén, amelynek mértéke a Vállalkozási díj 2%-a naponta. A kötbér összege nem haladhatja meg a Vállalkozási díj 50%-át. Amennyiben azt eléri, a két fél egyeztetése szükséges.
+Megrendelő kötbérigénnyel élhet a Vállalkozó késedelmes teljesítése esetén, amelynek mértéke a Vállalkozási díj 2%-a naponta. A kötbér összege nem haladhatja meg a Vállalkozási díj 50%-át. Amennyiben azt eléri, Megrendelő jogosult a jelen szerződéstől érdekmúlás bizonyítása nélkül elállni, amely esetben a Vállalkozó díjazásra nem tarthat igényt. Egyéb esetben a két fél egyeztetése szükséges.
 
-Jelen szerződés értelmében Vállalkozó az általa használt forráskódra, szoftverekre és más anyagokra felhasználási jogot enged Megrendelőnek. Az egyedi programozás során léterhozott forráskódok a Megrendelő tulajdonát képezik, azok szabadon és korlátlanul felhasználhatók Megrendelő részéről a pénzügyi teljesítés után.
+Jelen szerződés értelmében Vállalkozó az általa használt forráskódra, szoftverekre és más anyagokra azok átadásával - a díj megfizetése esetére - teljeskörű, idő és térbeli korlátozás nélküli, kizárólagos felhasználási jogot enged Megrendelőnek. Az egyedi programozás során létrehozott forráskódok a Megrendelő tulajdonát képezik, azok szabadon és korlátlanul felhasználhatók Megrendelő részéről a pénzügyi teljesítés után.
 
 ## A teljesítés módja
 
@@ -71,7 +73,7 @@ Kéredelmes fizetés esetén Megrendelő késedelmi kamatot köteles fizet
 
 ## Fizetés ütemezés
 
-Vállalkozó az elvégzett munkákat a Megrendelő teljesítésigazolása után számlázza le egy összegben a Fizetési feltételek szerint.
+Vállalkozó az elvégzett munkákat a Megrendelő teljesítésigazolása után számlázza le egy összegben a Fizetési feltételek szerint. A számla összege nem haladhatja meg a Vállalkozó árajánlatában meghatározott időráfordítás alapján a Vállalkozót illető összeget, kivéve, ha a Megrendelő érdekkörében felmerült okból az adott szolgáltatás teljesítése a Vállalkozó által meghatározott időn belül nem volt lehetséges.
 
 Az ebben a pontban meghatározott fizetés ütemezés az Egyedi szerződésben meghatározott egyes feladatok esetében vagy akár a teljes megbízásra is felülbírálható. Amennyiben az Egyedi szerződés tartalmaz fizetés ütemezést, úgy az ott megadott ütemezés az irányadó.
 
@@ -79,7 +81,7 @@ Az ebben a pontban meghatározott fizetés ütemezés az Egyedi szerződé
 
 - Központi kapcsolattartás: igény szerinti folyamatos személyes / telefonos / elektronikus kapcsolattartás a jelen szerződésben megjelölt személy(ek) által
 - Rendszeres visszajelzés a tervekre, köztes elfogadások
-- Anyagok(szövegek,logók,grafikák,stb.)átadása
+- Anyagok (szövegek, logók, grafikák, stb.) átadása
 
 Megrendelő helytáll azért, hogy az általa átadott anyagok nem sértik harmadik személyek szerzői vagy bármilyen egyéb jogait illetve jogos érdekeit, továbbá a harmadik személyek ilyen jellegű igényeiért helytállást vállal Vállalkozóval szemben.
 
@@ -117,6 +119,6 @@ Vállalkozó részéről súlyos szerződésszegésnek minősül a ta
 
 Súlyos szerződésszegés esetén a felmondó fél a felmondás jelzése előtt köteles írásban felszólítani a másik felet a szerződésszerű helyzet helyreállítására illetve teljesítésre. A rendkívüli felmondás csak a felszólításban szereplő ésszerű határidő elmulasztását követően érvényes.
 
-Rendes felmondás esetén a felmondási idő 30 nap, az arányos díjazás megfizetésével. Rendkívüli felmondás esetén a szerződésszegő fél kártérítési felelősséget vállal, amelynek maximált összege a teljes szerződéses összeg.
+Rendes felmondás esetén a felmondási idő 14 nap, az arányos díjazás megfizetésével. Rendkívüli felmondás esetén a szerződésszegő fél kártérítési felelősséget vállal, amelynek maximált összege a teljes szerződéses összeg.
 
 A jelen szerződés a Megrendelés leadásának napján lép hatályba. A szerződést a Megrendelő elolvasás és értelmezés után mint akaratával mindenben megegyezőt a Megrendelés leadásával elfogadja. Az itt nem szabályozott kérdésekben a Ptk. rendelkezései az irányadók. Jelen szerződésben foglalt jogaikat a felek – a jogutódlás esetét kivéve – csak a másik fél előzetes írásbeli jóváhagyásával engedményezhetik.
