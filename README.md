@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**3.0**
+
+- Szavatosság vállalása az átadott forráskód és média fájlok jogtiszta használatára.
+
 **2.2**
 
 - Verzió megjelenítése a szerződésben.
