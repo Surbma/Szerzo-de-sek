@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 2.2 | UTOLSÓ FRISSÍTÉS: 2016.06.24.**
+**VERZIÓ: 3.0 | UTOLSÓ FRISSÍTÉS: 2017.10.07.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -52,11 +52,13 @@ Az árak alanyi adómentesek, ezért áfa mentesen kerülnek leszámláza
 
 Vállalkozó a jelen szerződés hatályba lépését és a végleges nyersanyagok átadását követően az Egyedi szerződésekben meghatározott munkanap alatt vállalja a feladatok teljesítését. A nyersanyagok átvételekor Felek igény esetén jegyzőkönyvben rögzítik a tartalmat, amelyet innentől véglegesnek tekintenek. A határidő a munka folyamatos egyeztetésének szükségessége miatt módosulhat, erről Felek a munkafolyamat ideje alatt kölcsönösen megállapodnak.
 
-Vállalkozó a folyamatban lévő munkákról a fejlesztési időszak alatt folyamatosan elektronikus formában (adott esetben levelezési listán) írásban tájékoztatja Megrendelőt. Megrendelő az ezzel kapcsolatos észrevételeit, kijavítási igényeit a fejlesztési idő alatt köteles öt munkanapon belül elektronikus formában közölni Vállalkozóval. Az esetleges észrevételeket Vállalkozó lehetőségeinek és a jelen szerződés alapjául szolgáló, előzetesen egyeztetett alapkoncepciónak megfelelően köteles figyelembe venni. Amennyiben a válasz öt munkanapon belül nem érkezik meg, úgy a vállalkozási határidő a késedelmes napok számával meghosszabbodik. Vállalkozó a Megrendelő részéről kizárólag a szerződésben megjelölt személytől, vagy az ott megjelölt személy igazolásával fogad el teljesítésre vonatkozó instrukciókat. Amennyiben Megrendelő 30 munkanapot késik a válaszával, Vállalkozó jogosult az addig elkészült munkák kiszámlázására.
+Vállalkozó a folyamatban lévő munkákról a fejlesztési időszak alatt folyamatosan elektronikus formában (adott esetben levelezési listán) írásban tájékoztatja Megrendelőt. Megrendelő az ezzel kapcsolatos észrevételeit, kijavítási igényeit a fejlesztési idő alatt köteles öt munkanapon belül elektronikus formában közölni Vállalkozóval. Az esetleges észrevételeket Vállalkozó lehetőségeinek és a jelen szerződés alapjául szolgáló, előzetesen egyeztetett alapkoncepciónak megfelelően köteles figyelembe venni. Amennyiben a válasz öt munkanapon belül nem érkezik meg, úgy a vállalkozási határidő a késedelmes napok számával meghosszabbodik. Vállalkozó a Megrendelő részéről kizárólag a szerződésben megjelölt személytől vagy az ott megjelölt személy igazolásával fogad el teljesítésre vonatkozó instrukciókat. Amennyiben Megrendelő 30 munkanapot késik a válaszával, Vállalkozó jogosult az addig elkészült munkák kiszámlázására.
 
 Megrendelő kötbérigénnyel élhet a Vállalkozó késedelmes teljesítése esetén, amelynek mértéke a Vállalkozási díj 2%-a naponta. A kötbér összege nem haladhatja meg a Vállalkozási díj 50%-át. Amennyiben azt eléri, Megrendelő jogosult a jelen szerződéstől érdekmúlás bizonyítása nélkül elállni, amely esetben a Vállalkozó díjazásra nem tarthat igényt. Egyéb esetben a két fél egyeztetése szükséges.
 
 Jelen szerződés értelmében Vállalkozó az általa használt forráskódra, szoftverekre és más anyagokra azok átadásával - a díj megfizetése esetére - teljeskörű, idő és térbeli korlátozás nélküli, kizárólagos felhasználási jogot enged Megrendelőnek. Az egyedi programozás során létrehozott forráskódok a Megrendelő tulajdonát képezik, azok szabadon és korlátlanul felhasználhatók Megrendelő részéről a pénzügyi teljesítés után.
+
+Vállalkozó szavatosságot vállal azért, hogy az általa átadott forráskód és egyéb felhasznált média fájlok az átadás időpontjában jogtiszták, használatuk nem sért szerzői jogot és az ezekhez fűződő, Vállalkozó által jelen szerződés alapján megszerzésre kerülő jogok vonatkozásában harmadik személynek nincs olyan joga, amely a szoftver és a szellemi alkotás jogszerű, szerződés szerinti használatát, illetve a Megrendelő ezekhez fűződő, e szerződés szerinti jogait kizárná vagy korlátozná.
 
 ## A teljesítés módja
 
