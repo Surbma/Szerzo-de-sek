@@ -1,6 +1,6 @@
-# Vállalkozási Keretszerződés dokumentáció
+# Vállalkozási Keretszerződés dokumentáció
 
-Itt található a mindenkor aktuális Vállalkozási Keretszerződés és annak előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
+Itt található a mindenkor aktuális Vállalkozási Keretszerződés és annak előző verziói. Így az egyes változtatások nyomonkövetése, visszaellenőrzése is egyszerűbb.
 
 ## Verziószám
 
@@ -14,6 +14,10 @@ A verziószám két részből áll:
 Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítására vonatkozik, tehát a stilisztikai, megjelenésbeli és egyéb kis hibajavítások esetén nem frissül. A dátum azt az állapotot mutatja, amikor a szerződés lényegi elemei utoljára módosultak, azaz a főverzió frissülésével megegyező dátumot
 
 ## Változtatások:
+
+**3.1**
+
+- Karakter kódolás javítása a teljes szövegben.
 
 **3.0**
 
@@ -34,7 +38,7 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 - Különleges szakértelmet és specifikációt igénylő munkafolyamatok meghatározása.
 - Kapcsolati információkban a Megrendelő részének specifikálása.
 - Kötbérigényhez tartozó jogok bővítése Megrendelő érdekében.
-- Forráskód, szoftverek és más anyagok átadásával kapcsolatos jogok kibővítése Megrendelő érdekében.
+- Forráskód, szoftverek és más anyagok átadásával kapcsolatos jogok kibővítése Megrendelő érdekében.
 - Az elvégzett munka számlázásával kapcsolatos megkötés a számla végösszegére vonatkozóan.
 - Felmondási határidő módosítása 14 napra, hogy összhangban legyen az ÁSzF-ben is meghatározott határidővel.
 - Stilisztikai javítások.
@@ -46,4 +50,4 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 **1.0**
 
-- Vállalkozási Keretszerződés hozzáadása.
+- Vállalkozási Keretszerződés hozzáadása.
