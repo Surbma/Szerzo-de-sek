@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 3.1 | UTOLSÓ FRISSÍTÉS: 2018.02.08.**
+**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2018.02.08.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -44,9 +44,19 @@ Az Egyedi szerződésekben nem szabályozott vagy a feladatokon túlmutató munk
 
 ### A szerződés megkötésekor érvényes óradíjak:
 
-- **Programozás, adminisztrációs feladatok:** 8.000 Ft
-- **Tartalomfeltöltés:** 8.000 Ft
-- **Oktatás, konzultáció:** 8.000 Ft
+**Prémium WordPress Előfizetőknek:**
+
+- **Programozás:** 10.000 Ft
+- **Adminisztrációs feladatok:** 8.000 Ft
+- **Tartalomfeltöltés:** 4.000 Ft
+- **Oktatás, konzultáció:** 12.000 Ft
+
+**Alkalmi ügyfeleknek:**
+
+- **Programozás:** 16.000 Ft
+- **Adminisztrációs feladatok:** 16.000 Ft
+- **Tartalomfeltöltés:** 16.000 Ft
+- **Oktatás, konzultáció:** 16.000 Ft
 
 Az árak alanyi adómentesek, ezért áfa mentesen kerülnek leszámlázásra.
 
@@ -67,7 +77,7 @@ Vállalkozó a fejlesztés ideje alatt biztosítja Megrendelő részére a fejle
 ## Fizetési feltételek
 
 - **Fizetési határidő:** 8 nap
-- **Fizetés módja:** banki átutalás
+- **Fizetés módja:** banki átutalás, PayPal vagy bankkártyás fizetés (barion)
 
 Vállalkozó a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Megrendelő a megrendelés leadásával beleegyezését adja Vállalkozónak, hogy részére elektronikus számlát állítson ki.
 

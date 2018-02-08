@@ -15,6 +15,11 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**4.0**
+
+- Óradíjak módosítása és pontosítása.
+- Fizetési módok kiegészítése.
+
 **3.1**
 
 - Karakter kódolás javítása a teljes szövegben.
