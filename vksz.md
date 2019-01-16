@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2018.02.08.**
+**VERZIÓ: 4.1 | UTOLSÓ FRISSÍTÉS: 2019.01.16.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -113,7 +113,7 @@ Jelen pontban foglaltak a szerződés megszűnésére tekintet nélkül a védel
 
 Felek kötelesek munkavégzés során használatába került dokumentációkat, programokat, információs anyagokat a szerződés megszűnését követően egymásnak haladéktalanul és maradéktalanul visszaszolgáltatni. A titoktartási kötelezettség illetve megsértésének következményei a Feleket időbeli korlátozás nélkül mindaddig terhelik, amíg a titok, illetve tárgya Magyarországon jogszerűen nyilvánosságra nem kerül. Felek tudomásul veszik, hogy a tény vagy adat illetéktelen harmadik személlyel történő szóbeli közlése is nyilvánosságra hozatalnak minősül.
 
-Felek kötelezettséget vállalnak arra, hogy a jelen szerződés alapján őket terhelő kötelezettségeket, különösen a titoktartásra vonatkozó előírásokat  az e szerződésben meghatározott időpontok kifejezett figyelembevételével  az e szerződés teljesítése során közreműködő munkavállalóikkal, megbízottaikkal, szakértőikkel szemben is érvényesítik. Az ezt biztosító nyilatkozatokat a Felek beszerzik, az ezzel kapcsolatos felelősség a munkáltató illetőleg megrendelő Felet terheli.
+Felek kötelezettséget vállalnak arra, hogy a jelen szerződés alapján őket terhelő kötelezettségeket, különösen a titoktartásra vonatkozó előírásokat az e szerződésben meghatározott időpontok kifejezett figyelembevételével az e szerződés teljesítése során közreműködő munkavállalóikkal, megbízottaikkal, szakértőikkel szemben is érvényesítik. Az ezt biztosító nyilatkozatokat a Felek beszerzik, az ezzel kapcsolatos felelősség a munkáltató illetőleg megrendelő Felet terheli.
 
 Felek vállalják, hogy bizalmasan kezelik a szerződés feltételeit és vállalják azt is, hogy semmikor és semmilyen körülmények között nem fednek fel, illetve nem engednek felfedni illetéktelen harmadik fél részére, illetőleg más módon sem használnak és nem engednek felhasználni semmilyen, a jelen szerződéssel, illetőleg annak tárgyával kapcsolatban megszerzett üzleti titkot vagy bizalmas információt, amely bármelyik Szerződő Fél üzleti tevékenységére vagy pénzügyi helyzetére vonatkozik.
 
@@ -123,7 +123,7 @@ Felek kötelesek egymásnak megtéríteni azt a vagyoni és nem vagyoni kárt, a
 
 Felek a megszűnéstől számított 15 munkanapon belül egymással pénzügyileg elszámolnak.
 
-Amennyiben a szerződés súlyos szerződésszegés következtében azonnali hatályú felmondással szűnik meg, a szerződésszegő fél  megfelelő igazolás és orvoslás hiányában  köteles a szerződés megszűnéséből eredően a másik felet terhelő károkat megtéríteni.
+Amennyiben a szerződés súlyos szerződésszegés következtében azonnali hatályú felmondással szűnik meg, a szerződésszegő fél megfelelő igazolás és orvoslás hiányában köteles a szerződés megszűnéséből eredően a másik felet terhelő károkat megtéríteni.
 
 Súlyos szerződésszegésnek minősül a Megrendelő részéről a fizetési határidők kétszeri, legalább 20 napos elmulasztása, valamint a felhasználási jogosultság terjedelmén való túllépés.
 
@@ -133,4 +133,4 @@ Súlyos szerződésszegés esetén a felmondó fél a felmondás jelzése előtt
 
 Rendes felmondás esetén a felmondási idő 14 nap, az arányos díjazás megfizetésével. Rendkívüli felmondás esetén a szerződésszegő fél kártérítési felelősséget vállal, amelynek maximált összege a teljes szerződéses összeg.
 
-A jelen szerződés a Megrendelés leadásának napján lép hatályba. A szerződést a Megrendelő elolvasás és értelmezés után mint akaratával mindenben megegyezőt a Megrendelés leadásával elfogadja. Az itt nem szabályozott kérdésekben a Ptk. rendelkezései az irányadók. Jelen szerződésben foglalt jogaikat a felek  a jogutódlás esetét kivéve  csak a másik fél előzetes írásbeli jóváhagyásával engedményezhetik.
+A jelen szerződés a Megrendelés leadásának napján lép hatályba. A szerződést a Megrendelő elolvasás és értelmezés után mint akaratával mindenben megegyezőt a Megrendelés leadásával elfogadja. Az itt nem szabályozott kérdésekben a Ptk. rendelkezései az irányadók. Jelen szerződésben foglalt jogaikat a felek a jogutódlás esetét kivéve csak a másik fél előzetes írásbeli jóváhagyásával engedményezhetik.

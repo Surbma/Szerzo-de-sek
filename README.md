@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**4.1**
+
+- Speciális karakterek eltávolítása a szövegből.
+
 **4.0**
 
 - Óradíjak módosítása és pontosítása.
