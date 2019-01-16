@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**5.0**
+
+- Barion törlése a bankkártyás fizetési módnál.
+
 **4.1**
 
 - Speciális karakterek eltávolítása a szövegből.

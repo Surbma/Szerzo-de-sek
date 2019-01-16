@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 4.1 | UTOLSÓ FRISSÍTÉS: 2019.01.16.**
+**VERZIÓ: 5.0 | UTOLSÓ FRISSÍTÉS: 2019.01.16.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -77,7 +77,7 @@ Vállalkozó a fejlesztés ideje alatt biztosítja Megrendelő részére a fejle
 ## Fizetési feltételek
 
 - **Fizetési határidő:** 8 nap
-- **Fizetés módja:** banki átutalás, PayPal vagy bankkártyás fizetés (barion)
+- **Fizetés módja:** banki átutalás, PayPal vagy bankkártyás fizetés
 
 Vállalkozó a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Megrendelő a megrendelés leadásával beleegyezését adja Vállalkozónak, hogy részére elektronikus számlát állítson ki.
 
