@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 5.0 | UTOLSÓ FRISSÍTÉS: 2019.01.16.**
+**VERZIÓ: 6.0 | UTOLSÓ FRISSÍTÉS: 2019.05.08.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -27,7 +27,7 @@ Az Egyedi szerződésnek kötelezően kell tartalmaznia az egyes feladatok rész
 
 Szerződő Felek megállapodnak abban, hogy a jelen együttműködés során intézkedésre jogosult képviselőik a következők:
 
-- **Megrendelő részéről:** A Prémium WordPress honlapszolgáltatás megrendelésekor megadott kapcsolattartó, valamint a Megrendelő cégjegyzékben meghatározott vezető tisztségviselője
+- **Megrendelő részéről:** A Prémium WordPress szolgáltatások megrendelésekor megadott kapcsolattartó, valamint a Megrendelő cégjegyzékben meghatározott vezető tisztségviselője
 - **Vállalkozó részéről:** Ambrus Péter (Telefon: +36 70 209 3432 / Email: ugyfelszolgalat@premiumwp.hu, ugyfelszolgalat@surbma.hu)
 
 Felek kijelentik, hogy jelen pontban megjelölt képviselőik jogosultak a jelen szerződés megkötésére, illetve a jelen szerződés teljesítéséhez szükséges jognyilatkozatok megtételére.
@@ -47,9 +47,9 @@ Az Egyedi szerződésekben nem szabályozott vagy a feladatokon túlmutató munk
 **Prémium WordPress Előfizetőknek:**
 
 - **Programozás:** 10.000 Ft
-- **Adminisztrációs feladatok:** 8.000 Ft
-- **Tartalomfeltöltés:** 4.000 Ft
-- **Oktatás, konzultáció:** 12.000 Ft
+- **Adminisztrációs feladatok:** 10.000 Ft
+- **Tartalomfeltöltés:** 5.000 Ft
+- **Oktatás, konzultáció:** 10.000 Ft
 
 **Alkalmi ügyfeleknek:**
 

@@ -15,6 +15,11 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**6.0**
+
+- Óradíjak aktualizálása.
+- Kisebb módosítás, pontosítás a szövegben.
+
 **5.0**
 
 - Barion törlése a bankkártyás fizetési módnál.
