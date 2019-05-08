@@ -15,6 +15,10 @@ Az utolsó frissítés dátuma minden esetben a szerződés tartalmi módosítá
 
 ## Változtatások:
 
+**6.1**
+
+- PDF változat hozzáadása.
+
 **6.0**
 
 - Óradíjak aktualizálása.
