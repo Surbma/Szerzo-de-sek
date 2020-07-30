@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 6.1 | UTOLSÓ FRISSÍTÉS: 2019.05.08.**
+**VERZIÓ: 6.3 | UTOLSÓ FRISSÍTÉS: 2020.07.30.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -9,7 +9,7 @@ Megrendelő a Megrendelés leadásával elismeri, hogy betöltötte 18. életkor
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. szabályozásai, valamint a Pécsi Városi Bíróság illetékes.
 
-Létrejött egyrészről a Megrendelésben megadott magán vagy jogi személy (továbbiakban: **Megrendelő**), másrészről Ambrus Péter EV (Székhely: 7632 Pécs, Maléter Pál út 102. 2/7, Adószám: 66677659-1-22, Statisztikai számjel: 66677659620123102, Nyilvántartási szám: 37513086), mint vállalkozó (továbbiakban: **Vállalkozó**) között (továbbiakban együttesen: **Felek** vagy **Szerződő Felek**), a következő tárgyban és feltételek szerint:
+Létrejött egyrészről a Megrendelésben megadott magán vagy jogi személy (továbbiakban: **Megrendelő**), másrészről Ambrus Péter EV (Székhely: 7761 Kozármisleny, Pinty utca 12/A, Adószám: 66677659-1-22, Statisztikai számjel: 66677659620123102, Nyilvántartási szám: 37513086), mint vállalkozó (továbbiakban: **Vállalkozó**) között (továbbiakban együttesen: **Felek** vagy **Szerződő Felek**), a következő tárgyban és feltételek szerint:
 
 ## A szerződés tárgya
 

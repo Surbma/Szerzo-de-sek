@@ -22,6 +22,10 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**6.3**
+
+- Székhely módosítása.
+
 **6.2**
 
 - Szerződés formátumok szöveg hozzáadása.
