@@ -1,5 +1,5 @@
 # Vállalkozási Keretszerződés
-**VERZIÓ: 6.3 | UTOLSÓ FRISSÍTÉS: 2020.07.30.**
+**VERZIÓ: 7.0 | UTOLSÓ FRISSÍTÉS: 2021.03.19.**
 
 A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
@@ -58,7 +58,7 @@ Az Egyedi szerződésekben nem szabályozott vagy a feladatokon túlmutató munk
 - **Tartalomfeltöltés:** 16.000 Ft
 - **Oktatás, konzultáció:** 16.000 Ft
 
-Az árak alanyi adómentesek, ezért áfa mentesen kerülnek leszámlázásra.
+Az árak alanyi adómentesek, ezért ÁFA mentesen kerülnek leszámlázásra.
 
 Vállalkozó a jelen szerződés hatályba lépését és a végleges nyersanyagok átadását követően az Egyedi szerződésekben meghatározott munkanap alatt vállalja a feladatok teljesítését. A nyersanyagok átvételekor Felek igény esetén jegyzőkönyvben rögzítik a tartalmat, amelyet innentől véglegesnek tekintenek. A határidő a munka folyamatos egyeztetésének szükségessége miatt módosulhat, erről Felek a munkafolyamat ideje alatt kölcsönösen megállapodnak.
 
@@ -74,14 +74,18 @@ Vállalkozó szavatosságot vállal azért, hogy az általa átadott forráskód
 
 Vállalkozó a fejlesztés ideje alatt biztosítja Megrendelő részére a fejlesztés folyamatos nyomon követését. Az egyes részfeladatok teljesítettnek tekintendőek Megrendelő által küldött közbenső elfogadó, illetve helyeslő válasz esetén (akár elektronikus formában is).
 
-## Fizetési feltételek
+## Számlázás és fizetési feltételek
 
 - **Fizetési határidő:** 8 nap
 - **Fizetés módja:** banki átutalás, PayPal vagy bankkártyás fizetés
 
-Vállalkozó a díjbekérőket és számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Megrendelő a megrendelés leadásával beleegyezését adja Vállalkozónak, hogy részére elektronikus számlát állítson ki.
+Vállalkozó a számlákat elektronikus úton állítja ki a törvényi előírásoknak megfelelően. Megrendelő a megrendelés leadásával beleegyezését adja Vállalkozónak, hogy részére elektronikus számlát állítson ki.
 
 Kéredelmes fizetés esetén Megrendelő késedelmi kamatot köteles fizetni. A késedelmi kamat összege a fennálló tartozás összege után a Ptk. szerint meghatározott éves késedelmi kamatlábbal a késedelem napjaira kiszámított összeg, 360 napos évet alapul véve.
+
+Vállalkozó a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (Katv.) alapján kisadózó vállalkozásnak minősül.
+
+Vállalkozó alanyi adómentes adózású válallkozó, így a számlákat minden esetben ÁFA nélkül állítja ki.
 
 ## Fizetés ütemezés
 

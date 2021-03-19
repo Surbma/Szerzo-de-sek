@@ -22,6 +22,11 @@ https://www.markdowntopdf.com/
 
 ## Változtatások:
 
+**7.0**
+
+- Kisadózói státusz nyilatkozat.
+- Alanyi adómentes adózási mód nyilatkozat.
+
 **6.3**
 
 - Székhely módosítása.
